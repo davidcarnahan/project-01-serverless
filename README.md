@@ -1,2 +1,3 @@
 # project-01-serverless
-Serverless computing project -- acloudguru
+
+This is my professional portfolio. It uses AWS serverless technology and ReactJS.
